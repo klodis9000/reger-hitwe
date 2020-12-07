@@ -5,3 +5,4 @@
 2)InputData
 3)SetAvatar
 4)FillingInterests
+ZennoHelp - хелпник для написания шаблонов, подключение через директивы using и общий код
